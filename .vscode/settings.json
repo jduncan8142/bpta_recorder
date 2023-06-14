@@ -1,6 +1,20 @@
 {
     "cSpell.words": [
+        "ddiff",
+        "deepdiff",
+        "dxdy",
+        "LBTTONUP",
+        "LBUTTONDOWN",
+        "popleft",
+        "pyinput",
+        "pynput",
         "pystray",
-        "SAPGUI"
+        "pythoncom",
+        "RBUTTONDOWN",
+        "RBUTTONUP",
+        "SAPGUI",
+        "titl",
+        "Uninitialize",
+        "winput"
     ]
 }

@@ -8,6 +8,12 @@ pywin32 = "*"
 pysimplegui = "*"
 pystray = "*"
 pillow = "*"
+winput = "*"
+pyinput = "*"
+pynput = "*"
+deepdiff = {extras = ["optimize"], version = "*"}
+opencv-python = "*"
+numpy = "*"
 
 [dev-packages]
 ipykernel = "*"
